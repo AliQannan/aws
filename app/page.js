@@ -5,7 +5,7 @@ export default function Home() {
       {/* Header */}
       <header className="bg-white shadow-sm">
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
-          <h1 className="text-2xl font-bold text-blue-600">MediBook</h1>
+          <h1 className="text-2xl font-bold text-blue-600">doctor appointments</h1>
           <nav>
             <ul className="flex space-x-8">
               <li><a href="#features" className="text-gray-700 hover:text-blue-600 transition">Features</a></li>
