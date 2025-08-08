@@ -1,6 +1,6 @@
 // app/page.js (or pages/index.js)
 // Requires: Tailwind CSS configured. Paste as a single React component file.
-
+"use client";
 import { useEffect, useRef, useState } from "react";
 
 export default function Home() {
