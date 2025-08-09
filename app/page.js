@@ -76,7 +76,7 @@ export default function Home() {
                 <path d="M3 12a9 9 0 1018 0 9 9 0 10-18 0zm9-6v6l4 2" />
               </svg>
             </div>
-            <span className="font-semibold text-lg">MediBook</span>
+            <span className="font-semibold text-lg">aliqannan</span>
             <span className="text-sm text-slate-500 ml-2 hidden md:inline">Smart scheduling for clinics</span>
           </div>
 
