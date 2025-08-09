@@ -166,7 +166,9 @@ export default function Home() {
                     <div className="text-[13px] opacity-70 mt-1">Dr. Ayman</div>
                   </div>
                 </div>
-
+ <div> 
+            make a new adham qannan
+            </div>
                 <div className="mt-6">
                   <div className="text-xs opacity-80">Revenue</div>
                   <div className="text-2xl font-bold">$9,420 <span className="text-sm opacity-70">/ mo</span></div>
